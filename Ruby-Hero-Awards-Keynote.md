@@ -1,54 +1,6 @@
-**Presenter:** Ruby Hero Awards
+We've Moved!
+------------
 
-## Abstract
+The RailsConf 2012 wiki is now [a general Ruby conference wiki](https://github.com/newhavenrb/conferences/wiki).
 
-> There are many people in the Ruby/Rails world who contribute to our community and rarely receive any recognition or payment for their work.
->
-> They create educational content, develop plugins & gems, contribute to open source projects, and even put on events which help educate and make our lives as developers easier.
->
-> Ruby Heroes was created to show some gratitude and give these people the recognition they deserve. Hopefully the type of recognition that keeps them doing what they’re doing, and continuing to make our community stronger.
-
-## Notes
-
-* About Greg
-    * RailsEnvy podcast -> Ruby 5 Podcast
-    * Want to give back to people that give
-    * Not well known when newly minted heroes
-* 6 people
-    * Konstantin Haase ([rkh](https://github.com/rkh), [@konstantinhaase](https://twitter.com/#!/konstantinhaase))
-        * Rack
-        * Rubinius
-        * Sinatra maintainer
-        * Sinatra book
-        * Travis CI team
-    * Tony Arcieri ([tarcieri](https://github.com/tarcieri), [@bascule](https://twitter.com/#!/bascule))
-        * Revactor
-        * http://cool.io
-        * Celloid::IO
-        * DCell
-        * Reia
-        * Unlimited Novelty blog
-    * Yoko Harada ([yokolet](https://github.com/yokolet), [@yokolet](https://twitter.com/#!/yokolet))
-        * Nokogiri (JRuby)
-        * Misses some of this
-    * Sven Fuchs ([svenfuchs](https://github.com/svenfuchs), [@svenfuchs](https://twitter.com/#!/svenfuchs))
-        * Internationalization
-        * Rails 2.2
-        * Wrote the RailsGuide for it
-        * Co-founder of Travis CI
-    * Frederick Cheung ([fcheung](https://github.com/fcheung), [@fglc2](https://twitter.com/#!/fglc2))
-        * IRC / Google Group / Stack Overflow
-        * Lots of contribs (8641)
-        * Lots of OSS too
-    * Eric Hodel ([drbrain](https://github.com/drbrain), [@drbrain](https://twitter.com/#!/drbrain))
-        * Rdoc
-        * RubyGems (the Rubyforge one... and RubyGems.org?)
-        * Blog
-        * [Ruby Documentation Project](http://documenting-ruby.org/)
-        * [Mendicant University](http://mendicantuniversity.org)
-
-## External Links
-
-* [Ruby Heroes](http://rubyheroes.com/)
-* [Rails Best Practices](http://railsbest.com/)
-* [rulu](http://rulu.eu/) Donated shirts! Ruby Conference - 22 - 23 June, Lyon, France.
+Please find this page in its new home:  https://github.com/newhavenrb/conferences/wiki/Ruby-Hero-Awards-Keynote

@@ -1,5 +1,6 @@
-TODO Summary of content (or whatever you'd like to contribute).  [[Example in Portuguese|David Heinemeier Hansson Keynote PT]]
+We've Moved!
+------------
 
-## 他の言語
+The RailsConf 2012 wiki is now [a general Ruby conference wiki](https://github.com/newhavenrb/conferences/wiki).
 
-* [[English|Aaron Patterson Keynote]]
+Please find this page in its new home:  https://github.com/newhavenrb/conferences/wiki/Aaron-Patterson-Keynote-JA

@@ -1,10 +1,6 @@
-**Presenter:** Welcome
+We've Moved!
+------------
 
-## Abstract
+The RailsConf 2012 wiki is now [a general Ruby conference wiki](https://github.com/newhavenrb/conferences/wiki).
 
-> Welcome to RailsConf 2012!
-
-## Notes
-
-* Chad Fowler's been doing organizing a long time; not O'Reilly this time.
-* No longer an organizer; no longer in RubyCentral.  Evan Phoenix is the new Chad Fowler.  :)
+Please find this page in its new home:  https://github.com/newhavenrb/conferences/wiki/Welcome-Keynote

@@ -1,9 +1,6 @@
-**Presenter:** Michael Hartl
+We've Moved!
+------------
 
-## Abstract
+The RailsConf 2012 wiki is now [a general Ruby conference wiki](https://github.com/newhavenrb/conferences/wiki).
 
-> Based on Chapter 4 of the Ruby on Rails Tutorial by Michael Hartl, “Rails-flavored Ruby” covers the aspects of the Ruby programming language most important for developing Rails applications. Topics include hashes, arrays, and other objects; blocks; functions; and classes. 
-
-## Notes
-
-* IRB exercises from Ch4
+Please find this page in its new home:  https://github.com/newhavenrb/conferences/wiki/Railsflavored-Ruby

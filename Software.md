@@ -1,15 +1,6 @@
-If your Internet connection is good, all you need is a web browser.
+We've Moved!
+------------
 
-To work offline, you'll at least need `git` and a text editor.
+The RailsConf 2012 wiki is now [a general Ruby conference wiki](https://github.com/newhavenrb/conferences/wiki).
 
-## Plugins
-
-* `gollum`
-    * [gollum](https://github.com/github/gollum): what GitHub made for `git`-based wikis.  (See also: [Fix `undefined method 'new' for Redcarpet:Module`](https://github.com/github/gollum/pull/271))  FIXME their latest relase might have fixed that; check and remove this notice if so.
-* `vim`
-    * [vim-markdown](https://github.com/tpope/vim-markdown): syntax, etc
-    * [wikilink](https://github.com/mmai/wikilink): wiki navigation in `vim`
-
-## Utilities
-
-* [SparkleShare](https://github.com/hbons/sparkleshare) - Like Dropbox, but working with git repositories.  Makes wiki "live blogging" easier.
+Please find this page in its new home:  https://github.com/newhavenrb/conferences/wiki/Software

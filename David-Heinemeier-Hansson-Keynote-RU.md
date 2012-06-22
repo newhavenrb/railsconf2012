@@ -1,8 +1,6 @@
-TODO
+We've Moved!
+------------
 
-## На других языках
+The RailsConf 2012 wiki is now [a general Ruby conference wiki](https://github.com/newhavenrb/conferences/wiki).
 
-* [[English|David Heinemeier Hansson Keynote]]
-* [[Español|David Heinemeier Hansson Keynote ES]]
-* [[日本語|David Heinemeier Hansson Keynote JA]]
-* [[Português|David Heinemeier Hansson Keynote PT]]
+Please find this page in its new home:  https://github.com/newhavenrb/conferences/wiki/David-Heinemeier-Hansson-Keynote-RU
